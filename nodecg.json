@@ -1,7 +1,7 @@
 {
   "name": "nowplaying",
   "version": "1.2.0",
-  "nodecgDependency": "<0.6.0",
+  "nodecgDependency": "^6.0",
   "homepage": "http://fpb.im/",
   "authors": [
     "Francis Baker <hi@FPB.im>"  

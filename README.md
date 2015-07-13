@@ -18,6 +18,6 @@ The panel on the dashboard allows you to set:
 -- An optional message. If the message field is empty on update, no second line will be shown and only the song title is displayed.  
 -- Whether automatic display should be on. If enabled on update, the song display will show for X seconds every time the title changes.
 
-What's been changed since v0.3.0: 
--- Fixed a couple syntax error's I noticed. 
--- Updated to v0.6.0 for NodeCG and tested it on multiple instances to assure working and optimization. 
+Whats new since NodeCG v 0.3.0:  
+-- Fixed the code in a couple different locations to allow better performance and optimization.  
+-- Updated the code that needed to be for NodeCG v 0.6.0.

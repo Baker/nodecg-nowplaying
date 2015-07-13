@@ -2,12 +2,11 @@
   "name": "nowplaying",
   "version": "1.2.0",
   "nodecgDependency": "^6.0",
-  "homepage": "http://fpb.im/",
-  "authors": [
-    "Francis Baker <hi@FPB.im>"  
+  "homepage": "http://suyo.be/",
+  "authors": [  
     "Suyooo <me@suyo.be>"
   ],
-  "description": "Shows the currently playing song from a file, and another message. I took the original and added to it to upate it to the current version of NodeCG",
+  "description": "Shows the currently playing song from a file, and another message.",
   "resolutions": [
     "720p"
   ],
